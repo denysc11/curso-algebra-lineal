@@ -1,6 +1,6 @@
 # [Curso completo de álgebra lineal de cero a experto](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-### **Aprende** las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
-#### Con [Juan Gabriel Gomila](https://udemy.com/u/juangabriel2) y [María Santos](https://www.udemy.com/user/mery-santos/)
+### Aprende las bases para aplicar el álgebra lineal a la Estad�?stica, al Machine Learning y la Inteligencia Artificial
+#### Con [Juan Gabriel Gomila](https://udemy.com/u/juangabriel2) y [Mar�?a Santos](https://www.udemy.com/user/mery-santos/)
 
 #### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
 
@@ -8,14 +8,14 @@
 
 ### ¿Qué vas a aprender?
 
-**Conoce toda el álgebra lineal** de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
+Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y Mar�?a Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
-* Logística e instalación de R y RStudio, Anaconda Navigator para Python y Octave GNU para ingeniería.
-* Cómo usar R, Python y Octave como si fuese una calculadora científica para complementar tu estudio día a día
-* Introducción a la programación funcional, creando funciones con R, Python y Octave para resolver tus problemas del álgebra lineal y que te servirá para seguir tomando a posteriori cursos de estadística, análisis de datos, machine learning e inteligencia artificial
-* Fundamentos esenciales de matemáticas incluyendo el estudio de cuerpos, un repaso de trigonometría, el método de inducción o los números complejos entre otros.
+* Log�?stica e instalación de R y RStudio, Anaconda Navigator para Python y Octave GNU para ingenier�?a.
+* Cómo usar R, Python y Octave como si fuese una calculadora cient�?fica para complementar tu estudio d�?a a d�?a
+* Introducción a la programación funcional, creando funciones con R, Python y Octave para resolver tus problemas del álgebra lineal y que te servirá para seguir tomando a posteriori cursos de estad�?stica, análisis de datos, machine learning e inteligencia artificial
+* Fundamentos esenciales de matemáticas incluyendo el estudio de cuerpos, un repaso de trigonometr�?a, el método de inducción o los números complejos entre otros.
 * Matrices, sistemas de ecuaciones lineales, determinantes o el método de factorización LU que se utiliza en algoritmos que involucran el cálculo de matrices inversas o la resolución de sistemas de ecuaciones en redes neuronales o SVM
-* Vectores y operaciones vectoriales incluyendo combinaciones lineales, producto escalar, proyecciones ortogonales, producto vectorial y producto mixto que aparecen constantemente en el mundo de la física, la ingeniería y la programación.
+* Vectores y operaciones vectoriales incluyendo combinaciones lineales, producto escalar, proyecciones ortogonales, producto vectorial y producto mixto que aparecen constantemente en el mundo de la f�?sica, la ingenier�?a y la programación.
 * El mundo de los espacios vectoriales donde se ubican los datos de un análisis incluyendo el cálculo de la dimensión, la búsqueda de una base, el cambio de base o el método de ortogonalización de Gram Smith.
 * Creación de espacios vectoriales como la suma directa, el producto o el espacio cociente.
 * Morfismos y aplicaciones lineales para clasificar y relacionar espacios vectoriales.
@@ -23,7 +23,7 @@
 * Optimización lineal con el método del Simplex.
 * Repositorio Github con todo el material del curso para disponer de los mismos scripts que usamos en clase desde el minuto inicial.
 
-Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
+Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garant�?as de éxito.
 
 ### Temario del curso
 
@@ -42,6 +42,6 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
 
-Complementa este curso con el resto del itinerario específico que tienes disponible en la web de [Frogames](https://frogames.es/rutas-de-aprendizaje)
+Complementa este curso con el resto del itinerario espec�?fico que tienes disponible en la web de [Frogames](https://frogames.es/rutas-de-aprendizaje)
 
 
